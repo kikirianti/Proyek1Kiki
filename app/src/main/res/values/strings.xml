@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Proyek 1 Kiki</string>
+    <string name="nama">Kiki Rianti</string>
+    <string name="nim">232010105</string>
+    <string name="fakulitas">Pendidikan MIPA dan Teknologi</string>
+    <string-array name="prodi">
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Fisika</item>
+        <item>Pendidikan Teknologi Informasi</item>
+        <item>Pendidikan Biologi</item>
+    </string-array>
+
+
+    <string name="pertama">Ini Adalah Desain Pertama Saya Di Android</string>
+    <string name="pesan">Tuliskan Pesan Anda Disini</string>
+    <string name="bpertama">Tekan</string>
+    <string name="bkedua">Lepas</string>
+    <string name="cb1">Pilihan 1</string>
+    <string name="cb2">Pilihan 2</string>
+    <string name="jk1">Laki-Laki</string>
+    <string name="jk2">Perempuan</string>
+    <string name="kepada">Kepada</string>
+    <string name="subyek">subyek</string>
+    <string name="isi">Isi Pesan</string>
+    <string name="kirim">Kirim</string>
+    <string name="copyright">Created by Kiki Rianti \n IKIP PGRI PONTIANAK</string>
+    <string name="username">Masukan Nama Anda</string>
+</resources>

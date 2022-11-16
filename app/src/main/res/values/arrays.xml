@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/icons_instagram</item>
+        <item>@drawable/icons_youtube</item>
+        <item>@drawable/icons_twitter</item>
+    </array>
+    <array name="colors">
+        <item>@color/green</item>
+        <item>@color/pink</item>
+        <item>@color/yellow</item>
+    </array>
+    <array name="iconsbaru">
+        <item>@drawable/seokjin</item>
+        <item>@drawable/jungkook</item>
+        <item>@drawable/seokjin</item>
+    </array>
+</resources>
